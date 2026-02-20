@@ -17,19 +17,19 @@
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
                 },
                 {
-                  "string": "COFFEE-ETH-001"
+                  "string": "TEST-PRODUCT-001"
                 },
                 {
-                  "string": "Organic Coffee Beans"
+                  "string": "Test Product"
                 },
                 {
-                  "string": ""
+                  "string": "Test description"
                 },
                 {
-                  "string": "Yirgacheffe, Ethiopia"
+                  "string": "Test Origin"
                 },
                 {
-                  "string": "Coffee"
+                  "string": "Test Category"
                 },
                 {
                   "vec": []
@@ -50,6 +50,9 @@
         }
       ]
     ],
+    [],
+    [],
+    [],
     []
   ],
   "ledger": {
@@ -72,7 +75,7 @@
                   "symbol": "Auth"
                 },
                 {
-                  "string": "COFFEE-ETH-001"
+                  "string": "TEST-PRODUCT-001"
                 },
                 {
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
@@ -95,7 +98,7 @@
                       "symbol": "Auth"
                     },
                     {
-                      "string": "COFFEE-ETH-001"
+                      "string": "TEST-PRODUCT-001"
                     },
                     {
                       "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
@@ -123,7 +126,7 @@
                   "symbol": "Product"
                 },
                 {
-                  "string": "COFFEE-ETH-001"
+                  "string": "TEST-PRODUCT-001"
                 }
               ]
             },
@@ -143,7 +146,7 @@
                       "symbol": "Product"
                     },
                     {
-                      "string": "COFFEE-ETH-001"
+                      "string": "TEST-PRODUCT-001"
                     }
                   ]
                 },
@@ -163,7 +166,7 @@
                         "symbol": "category"
                       },
                       "val": {
-                        "string": "Coffee"
+                        "string": "Test Category"
                       }
                     },
                     {
@@ -195,7 +198,7 @@
                         "symbol": "description"
                       },
                       "val": {
-                        "string": ""
+                        "string": "Test description"
                       }
                     },
                     {
@@ -203,7 +206,7 @@
                         "symbol": "id"
                       },
                       "val": {
-                        "string": "COFFEE-ETH-001"
+                        "string": "TEST-PRODUCT-001"
                       }
                     },
                     {
@@ -219,7 +222,7 @@
                         "symbol": "name"
                       },
                       "val": {
-                        "string": "Organic Coffee Beans"
+                        "string": "Test Product"
                       }
                     },
                     {
@@ -233,7 +236,7 @@
                               "symbol": "location"
                             },
                             "val": {
-                              "string": "Yirgacheffe, Ethiopia"
+                              "string": "Test Origin"
                             }
                           }
                         ]
@@ -274,7 +277,7 @@
                   "symbol": "ProductEventIds"
                 },
                 {
-                  "string": "COFFEE-ETH-001"
+                  "string": "TEST-PRODUCT-001"
                 }
               ]
             },
@@ -294,7 +297,7 @@
                       "symbol": "ProductEventIds"
                     },
                     {
-                      "string": "COFFEE-ETH-001"
+                      "string": "TEST-PRODUCT-001"
                     }
                   ]
                 },
@@ -422,19 +425,19 @@
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
                 },
                 {
-                  "string": "COFFEE-ETH-001"
+                  "string": "TEST-PRODUCT-001"
                 },
                 {
-                  "string": "Organic Coffee Beans"
+                  "string": "Test Product"
                 },
                 {
-                  "string": ""
+                  "string": "Test description"
                 },
                 {
-                  "string": "Yirgacheffe, Ethiopia"
+                  "string": "Test Origin"
                 },
                 {
-                  "string": "Coffee"
+                  "string": "Test Category"
                 },
                 {
                   "vec": []
@@ -467,7 +470,7 @@
                 "symbol": "product_registered"
               },
               {
-                "string": "COFFEE-ETH-001"
+                "string": "TEST-PRODUCT-001"
               }
             ],
             "data": {
@@ -485,7 +488,7 @@
                     "symbol": "category"
                   },
                   "val": {
-                    "string": "Coffee"
+                    "string": "Test Category"
                   }
                 },
                 {
@@ -517,7 +520,7 @@
                     "symbol": "description"
                   },
                   "val": {
-                    "string": ""
+                    "string": "Test description"
                   }
                 },
                 {
@@ -525,7 +528,7 @@
                     "symbol": "id"
                   },
                   "val": {
-                    "string": "COFFEE-ETH-001"
+                    "string": "TEST-PRODUCT-001"
                   }
                 },
                 {
@@ -541,7 +544,7 @@
                     "symbol": "name"
                   },
                   "val": {
-                    "string": "Organic Coffee Beans"
+                    "string": "Test Product"
                   }
                 },
                 {
@@ -555,7 +558,7 @@
                           "symbol": "location"
                         },
                         "val": {
-                          "string": "Yirgacheffe, Ethiopia"
+                          "string": "Test Origin"
                         }
                       }
                     ]
@@ -614,7 +617,7 @@
                     "symbol": "category"
                   },
                   "val": {
-                    "string": "Coffee"
+                    "string": "Test Category"
                   }
                 },
                 {
@@ -646,7 +649,7 @@
                     "symbol": "description"
                   },
                   "val": {
-                    "string": ""
+                    "string": "Test description"
                   }
                 },
                 {
@@ -654,7 +657,7 @@
                     "symbol": "id"
                   },
                   "val": {
-                    "string": "COFFEE-ETH-001"
+                    "string": "TEST-PRODUCT-001"
                   }
                 },
                 {
@@ -670,7 +673,7 @@
                     "symbol": "name"
                   },
                   "val": {
-                    "string": "Organic Coffee Beans"
+                    "string": "Test Product"
                   }
                 },
                 {
@@ -684,7 +687,7 @@
                           "symbol": "location"
                         },
                         "val": {
-                          "string": "Yirgacheffe, Ethiopia"
+                          "string": "Test Origin"
                         }
                       }
                     ]
@@ -732,7 +735,7 @@
               }
             ],
             "data": {
-              "string": "COFFEE-ETH-001"
+              "string": "TEST-PRODUCT-001"
             }
           }
         }
@@ -769,7 +772,7 @@
                     "symbol": "category"
                   },
                   "val": {
-                    "string": "Coffee"
+                    "string": "Test Category"
                   }
                 },
                 {
@@ -801,7 +804,7 @@
                     "symbol": "description"
                   },
                   "val": {
-                    "string": ""
+                    "string": "Test description"
                   }
                 },
                 {
@@ -809,7 +812,7 @@
                     "symbol": "id"
                   },
                   "val": {
-                    "string": "COFFEE-ETH-001"
+                    "string": "TEST-PRODUCT-001"
                   }
                 },
                 {
@@ -825,7 +828,7 @@
                     "symbol": "name"
                   },
                   "val": {
-                    "string": "Organic Coffee Beans"
+                    "string": "Test Product"
                   }
                 },
                 {
@@ -839,7 +842,7 @@
                           "symbol": "location"
                         },
                         "val": {
-                          "string": "Yirgacheffe, Ethiopia"
+                          "string": "Test Origin"
                         }
                       }
                     ]
@@ -860,6 +863,449 @@
                   "val": {
                     "vec": []
                   }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "failed_call": false
+    },
+    {
+      "event": {
+        "ext": "v0",
+        "contract_id": null,
+        "type_": "diagnostic",
+        "body": {
+          "v0": {
+            "topics": [
+              {
+                "symbol": "fn_call"
+              },
+              {
+                "bytes": "0000000000000000000000000000000000000000000000000000000000000001"
+              },
+              {
+                "symbol": "get_product"
+              }
+            ],
+            "data": {
+              "string": "TEST-PRODUCT-001"
+            }
+          }
+        }
+      },
+      "failed_call": false
+    },
+    {
+      "event": {
+        "ext": "v0",
+        "contract_id": "0000000000000000000000000000000000000000000000000000000000000001",
+        "type_": "diagnostic",
+        "body": {
+          "v0": {
+            "topics": [
+              {
+                "symbol": "fn_return"
+              },
+              {
+                "symbol": "get_product"
+              }
+            ],
+            "data": {
+              "map": [
+                {
+                  "key": {
+                    "symbol": "active"
+                  },
+                  "val": {
+                    "bool": true
+                  }
+                },
+                {
+                  "key": {
+                    "symbol": "category"
+                  },
+                  "val": {
+                    "string": "Test Category"
+                  }
+                },
+                {
+                  "key": {
+                    "symbol": "certifications"
+                  },
+                  "val": {
+                    "vec": []
+                  }
+                },
+                {
+                  "key": {
+                    "symbol": "created_at"
+                  },
+                  "val": {
+                    "u64": 0
+                  }
+                },
+                {
+                  "key": {
+                    "symbol": "custom"
+                  },
+                  "val": {
+                    "map": []
+                  }
+                },
+                {
+                  "key": {
+                    "symbol": "description"
+                  },
+                  "val": {
+                    "string": "Test description"
+                  }
+                },
+                {
+                  "key": {
+                    "symbol": "id"
+                  },
+                  "val": {
+                    "string": "TEST-PRODUCT-001"
+                  }
+                },
+                {
+                  "key": {
+                    "symbol": "media_hashes"
+                  },
+                  "val": {
+                    "vec": []
+                  }
+                },
+                {
+                  "key": {
+                    "symbol": "name"
+                  },
+                  "val": {
+                    "string": "Test Product"
+                  }
+                },
+                {
+                  "key": {
+                    "symbol": "origin"
+                  },
+                  "val": {
+                    "map": [
+                      {
+                        "key": {
+                          "symbol": "location"
+                        },
+                        "val": {
+                          "string": "Test Origin"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "key": {
+                    "symbol": "owner"
+                  },
+                  "val": {
+                    "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
+                  }
+                },
+                {
+                  "key": {
+                    "symbol": "tags"
+                  },
+                  "val": {
+                    "vec": []
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "failed_call": false
+    },
+    {
+      "event": {
+        "ext": "v0",
+        "contract_id": null,
+        "type_": "diagnostic",
+        "body": {
+          "v0": {
+            "topics": [
+              {
+                "symbol": "fn_call"
+              },
+              {
+                "bytes": "0000000000000000000000000000000000000000000000000000000000000001"
+              },
+              {
+                "symbol": "register_product"
+              }
+            ],
+            "data": {
+              "vec": [
+                {
+                  "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
+                },
+                {
+                  "string": "TEST-PRODUCT-001"
+                },
+                {
+                  "string": "Duplicate Product"
+                },
+                {
+                  "string": ""
+                },
+                {
+                  "string": "Another Origin"
+                },
+                {
+                  "string": "Another Category"
+                },
+                {
+                  "vec": []
+                },
+                {
+                  "vec": []
+                },
+                {
+                  "vec": []
+                },
+                {
+                  "map": []
+                }
+              ]
+            }
+          }
+        }
+      },
+      "failed_call": false
+    },
+    {
+      "event": {
+        "ext": "v0",
+        "contract_id": "0000000000000000000000000000000000000000000000000000000000000001",
+        "type_": "diagnostic",
+        "body": {
+          "v0": {
+            "topics": [
+              {
+                "symbol": "fn_return"
+              },
+              {
+                "symbol": "register_product"
+              }
+            ],
+            "data": {
+              "error": {
+                "contract": 1
+              }
+            }
+          }
+        }
+      },
+      "failed_call": true
+    },
+    {
+      "event": {
+        "ext": "v0",
+        "contract_id": "0000000000000000000000000000000000000000000000000000000000000001",
+        "type_": "diagnostic",
+        "body": {
+          "v0": {
+            "topics": [
+              {
+                "symbol": "error"
+              },
+              {
+                "error": {
+                  "contract": 1
+                }
+              }
+            ],
+            "data": {
+              "string": "escalating Ok(ScErrorType::Contract) frame-exit to Err"
+            }
+          }
+        }
+      },
+      "failed_call": true
+    },
+    {
+      "event": {
+        "ext": "v0",
+        "contract_id": null,
+        "type_": "diagnostic",
+        "body": {
+          "v0": {
+            "topics": [
+              {
+                "symbol": "error"
+              },
+              {
+                "error": {
+                  "contract": 1
+                }
+              }
+            ],
+            "data": {
+              "vec": [
+                {
+                  "string": "contract try_call failed"
+                },
+                {
+                  "symbol": "register_product"
+                },
+                {
+                  "vec": [
+                    {
+                      "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
+                    },
+                    {
+                      "string": "TEST-PRODUCT-001"
+                    },
+                    {
+                      "string": "Duplicate Product"
+                    },
+                    {
+                      "string": ""
+                    },
+                    {
+                      "string": "Another Origin"
+                    },
+                    {
+                      "string": "Another Category"
+                    },
+                    {
+                      "vec": []
+                    },
+                    {
+                      "vec": []
+                    },
+                    {
+                      "vec": []
+                    },
+                    {
+                      "map": []
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "failed_call": false
+    },
+    {
+      "event": {
+        "ext": "v0",
+        "contract_id": null,
+        "type_": "diagnostic",
+        "body": {
+          "v0": {
+            "topics": [
+              {
+                "symbol": "fn_call"
+              },
+              {
+                "bytes": "0000000000000000000000000000000000000000000000000000000000000001"
+              },
+              {
+                "symbol": "get_product"
+              }
+            ],
+            "data": {
+              "string": "NON-EXISTENT-001"
+            }
+          }
+        }
+      },
+      "failed_call": false
+    },
+    {
+      "event": {
+        "ext": "v0",
+        "contract_id": "0000000000000000000000000000000000000000000000000000000000000001",
+        "type_": "diagnostic",
+        "body": {
+          "v0": {
+            "topics": [
+              {
+                "symbol": "fn_return"
+              },
+              {
+                "symbol": "get_product"
+              }
+            ],
+            "data": {
+              "error": {
+                "contract": 2
+              }
+            }
+          }
+        }
+      },
+      "failed_call": true
+    },
+    {
+      "event": {
+        "ext": "v0",
+        "contract_id": "0000000000000000000000000000000000000000000000000000000000000001",
+        "type_": "diagnostic",
+        "body": {
+          "v0": {
+            "topics": [
+              {
+                "symbol": "error"
+              },
+              {
+                "error": {
+                  "contract": 2
+                }
+              }
+            ],
+            "data": {
+              "string": "escalating Ok(ScErrorType::Contract) frame-exit to Err"
+            }
+          }
+        }
+      },
+      "failed_call": true
+    },
+    {
+      "event": {
+        "ext": "v0",
+        "contract_id": null,
+        "type_": "diagnostic",
+        "body": {
+          "v0": {
+            "topics": [
+              {
+                "symbol": "error"
+              },
+              {
+                "error": {
+                  "contract": 2
+                }
+              }
+            ],
+            "data": {
+              "vec": [
+                {
+                  "string": "contract try_call failed"
+                },
+                {
+                  "symbol": "get_product"
+                },
+                {
+                  "vec": [
+                    {
+                      "string": "NON-EXISTENT-001"
+                    }
+                  ]
                 }
               ]
             }

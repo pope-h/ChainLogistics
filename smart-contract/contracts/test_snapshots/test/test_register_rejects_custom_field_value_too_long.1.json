@@ -105,7 +105,7 @@
                   "string": ""
                 },
                 {
-                  "string": ""
+                  "string": "Yirgacheffe, Ethiopia"
                 },
                 {
                   "string": "Coffee"
@@ -120,7 +120,16 @@
                   "vec": []
                 },
                 {
-                  "map": []
+                  "map": [
+                    {
+                      "key": {
+                        "symbol": "k"
+                      },
+                      "val": {
+                        "string": "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv"
+                      }
+                    }
+                  ]
                 }
               ]
             }
@@ -146,7 +155,7 @@
             ],
             "data": {
               "error": {
-                "contract": 8
+                "contract": 20
               }
             }
           }
@@ -167,7 +176,7 @@
               },
               {
                 "error": {
-                  "contract": 8
+                  "contract": 20
                 }
               }
             ],
@@ -192,7 +201,7 @@
               },
               {
                 "error": {
-                  "contract": 8
+                  "contract": 20
                 }
               }
             ],
@@ -219,7 +228,7 @@
                       "string": ""
                     },
                     {
-                      "string": ""
+                      "string": "Yirgacheffe, Ethiopia"
                     },
                     {
                       "string": "Coffee"
@@ -234,7 +243,16 @@
                       "vec": []
                     },
                     {
-                      "map": []
+                      "map": [
+                        {
+                          "key": {
+                            "symbol": "k"
+                          },
+                          "val": {
+                            "string": "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv"
+                          }
+                        }
+                      ]
                     }
                   ]
                 }

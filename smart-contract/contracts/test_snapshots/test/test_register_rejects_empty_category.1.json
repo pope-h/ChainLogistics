@@ -105,10 +105,10 @@
                   "string": ""
                 },
                 {
-                  "string": ""
+                  "string": "Yirgacheffe, Ethiopia"
                 },
                 {
-                  "string": "Coffee"
+                  "string": ""
                 },
                 {
                   "vec": []
@@ -146,7 +146,7 @@
             ],
             "data": {
               "error": {
-                "contract": 8
+                "contract": 9
               }
             }
           }
@@ -167,7 +167,7 @@
               },
               {
                 "error": {
-                  "contract": 8
+                  "contract": 9
                 }
               }
             ],
@@ -192,7 +192,7 @@
               },
               {
                 "error": {
-                  "contract": 8
+                  "contract": 9
                 }
               }
             ],
@@ -219,10 +219,10 @@
                       "string": ""
                     },
                     {
-                      "string": ""
+                      "string": "Yirgacheffe, Ethiopia"
                     },
                     {
-                      "string": "Coffee"
+                      "string": ""
                     },
                     {
                       "vec": []

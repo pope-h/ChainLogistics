@@ -105,13 +105,17 @@
                   "string": ""
                 },
                 {
-                  "string": ""
+                  "string": "Yirgacheffe, Ethiopia"
                 },
                 {
                   "string": "Coffee"
                 },
                 {
-                  "vec": []
+                  "vec": [
+                    {
+                      "string": "tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt"
+                    }
+                  ]
                 },
                 {
                   "vec": []
@@ -146,7 +150,7 @@
             ],
             "data": {
               "error": {
-                "contract": 8
+                "contract": 16
               }
             }
           }
@@ -167,7 +171,7 @@
               },
               {
                 "error": {
-                  "contract": 8
+                  "contract": 16
                 }
               }
             ],
@@ -192,7 +196,7 @@
               },
               {
                 "error": {
-                  "contract": 8
+                  "contract": 16
                 }
               }
             ],
@@ -219,13 +223,17 @@
                       "string": ""
                     },
                     {
-                      "string": ""
+                      "string": "Yirgacheffe, Ethiopia"
                     },
                     {
                       "string": "Coffee"
                     },
                     {
-                      "vec": []
+                      "vec": [
+                        {
+                          "string": "tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt"
+                        }
+                      ]
                     },
                     {
                       "vec": []

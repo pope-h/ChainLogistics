@@ -1,0 +1,587 @@
+{
+  "generators": {
+    "address": 2,
+    "nonce": 0
+  },
+  "auth": [
+    []
+  ],
+  "ledger": {
+    "protocol_version": 20,
+    "sequence_number": 0,
+    "timestamp": 0,
+    "network_id": "0000000000000000000000000000000000000000000000000000000000000000",
+    "base_reserve": 0,
+    "min_persistent_entry_ttl": 4096,
+    "min_temp_entry_ttl": 16,
+    "max_entry_ttl": 6312000,
+    "ledger_entries": [
+      [
+        {
+          "contract_data": {
+            "contract": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD2KM",
+            "key": "ledger_key_contract_instance",
+            "durability": "persistent"
+          }
+        },
+        [
+          {
+            "last_modified_ledger_seq": 0,
+            "data": {
+              "contract_data": {
+                "ext": "v0",
+                "contract": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD2KM",
+                "key": "ledger_key_contract_instance",
+                "durability": "persistent",
+                "val": {
+                  "contract_instance": {
+                    "executable": {
+                      "wasm": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                    },
+                    "storage": null
+                  }
+                }
+              }
+            },
+            "ext": "v0"
+          },
+          4095
+        ]
+      ],
+      [
+        {
+          "contract_code": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          }
+        },
+        [
+          {
+            "last_modified_ledger_seq": 0,
+            "data": {
+              "contract_code": {
+                "ext": "v0",
+                "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "code": ""
+              }
+            },
+            "ext": "v0"
+          },
+          4095
+        ]
+      ]
+    ]
+  },
+  "events": [
+    {
+      "event": {
+        "ext": "v0",
+        "contract_id": null,
+        "type_": "diagnostic",
+        "body": {
+          "v0": {
+            "topics": [
+              {
+                "symbol": "fn_call"
+              },
+              {
+                "bytes": "0000000000000000000000000000000000000000000000000000000000000001"
+              },
+              {
+                "symbol": "register_product"
+              }
+            ],
+            "data": {
+              "vec": [
+                {
+                  "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
+                },
+                {
+                  "string": "COFFEE-ETH-001"
+                },
+                {
+                  "string": "Organic Coffee Beans"
+                },
+                {
+                  "string": ""
+                },
+                {
+                  "string": "Yirgacheffe, Ethiopia"
+                },
+                {
+                  "string": "Coffee"
+                },
+                {
+                  "vec": []
+                },
+                {
+                  "vec": []
+                },
+                {
+                  "vec": []
+                },
+                {
+                  "map": [
+                    {
+                      "key": {
+                        "symbol": "k0"
+                      },
+                      "val": {
+                        "string": "v"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "k1"
+                      },
+                      "val": {
+                        "string": "v"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "k10"
+                      },
+                      "val": {
+                        "string": "v"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "k11"
+                      },
+                      "val": {
+                        "string": "v"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "k12"
+                      },
+                      "val": {
+                        "string": "v"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "k13"
+                      },
+                      "val": {
+                        "string": "v"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "k14"
+                      },
+                      "val": {
+                        "string": "v"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "k15"
+                      },
+                      "val": {
+                        "string": "v"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "k16"
+                      },
+                      "val": {
+                        "string": "v"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "k17"
+                      },
+                      "val": {
+                        "string": "v"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "k18"
+                      },
+                      "val": {
+                        "string": "v"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "k19"
+                      },
+                      "val": {
+                        "string": "v"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "k2"
+                      },
+                      "val": {
+                        "string": "v"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "k20"
+                      },
+                      "val": {
+                        "string": "v"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "k3"
+                      },
+                      "val": {
+                        "string": "v"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "k4"
+                      },
+                      "val": {
+                        "string": "v"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "k5"
+                      },
+                      "val": {
+                        "string": "v"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "k6"
+                      },
+                      "val": {
+                        "string": "v"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "k7"
+                      },
+                      "val": {
+                        "string": "v"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "k8"
+                      },
+                      "val": {
+                        "string": "v"
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "k9"
+                      },
+                      "val": {
+                        "string": "v"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "failed_call": false
+    },
+    {
+      "event": {
+        "ext": "v0",
+        "contract_id": "0000000000000000000000000000000000000000000000000000000000000001",
+        "type_": "diagnostic",
+        "body": {
+          "v0": {
+            "topics": [
+              {
+                "symbol": "fn_return"
+              },
+              {
+                "symbol": "register_product"
+              }
+            ],
+            "data": {
+              "error": {
+                "contract": 19
+              }
+            }
+          }
+        }
+      },
+      "failed_call": true
+    },
+    {
+      "event": {
+        "ext": "v0",
+        "contract_id": "0000000000000000000000000000000000000000000000000000000000000001",
+        "type_": "diagnostic",
+        "body": {
+          "v0": {
+            "topics": [
+              {
+                "symbol": "error"
+              },
+              {
+                "error": {
+                  "contract": 19
+                }
+              }
+            ],
+            "data": {
+              "string": "escalating Ok(ScErrorType::Contract) frame-exit to Err"
+            }
+          }
+        }
+      },
+      "failed_call": true
+    },
+    {
+      "event": {
+        "ext": "v0",
+        "contract_id": null,
+        "type_": "diagnostic",
+        "body": {
+          "v0": {
+            "topics": [
+              {
+                "symbol": "error"
+              },
+              {
+                "error": {
+                  "contract": 19
+                }
+              }
+            ],
+            "data": {
+              "vec": [
+                {
+                  "string": "contract try_call failed"
+                },
+                {
+                  "symbol": "register_product"
+                },
+                {
+                  "vec": [
+                    {
+                      "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
+                    },
+                    {
+                      "string": "COFFEE-ETH-001"
+                    },
+                    {
+                      "string": "Organic Coffee Beans"
+                    },
+                    {
+                      "string": ""
+                    },
+                    {
+                      "string": "Yirgacheffe, Ethiopia"
+                    },
+                    {
+                      "string": "Coffee"
+                    },
+                    {
+                      "vec": []
+                    },
+                    {
+                      "vec": []
+                    },
+                    {
+                      "vec": []
+                    },
+                    {
+                      "map": [
+                        {
+                          "key": {
+                            "symbol": "k0"
+                          },
+                          "val": {
+                            "string": "v"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "k1"
+                          },
+                          "val": {
+                            "string": "v"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "k10"
+                          },
+                          "val": {
+                            "string": "v"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "k11"
+                          },
+                          "val": {
+                            "string": "v"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "k12"
+                          },
+                          "val": {
+                            "string": "v"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "k13"
+                          },
+                          "val": {
+                            "string": "v"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "k14"
+                          },
+                          "val": {
+                            "string": "v"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "k15"
+                          },
+                          "val": {
+                            "string": "v"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "k16"
+                          },
+                          "val": {
+                            "string": "v"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "k17"
+                          },
+                          "val": {
+                            "string": "v"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "k18"
+                          },
+                          "val": {
+                            "string": "v"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "k19"
+                          },
+                          "val": {
+                            "string": "v"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "k2"
+                          },
+                          "val": {
+                            "string": "v"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "k20"
+                          },
+                          "val": {
+                            "string": "v"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "k3"
+                          },
+                          "val": {
+                            "string": "v"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "k4"
+                          },
+                          "val": {
+                            "string": "v"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "k5"
+                          },
+                          "val": {
+                            "string": "v"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "k6"
+                          },
+                          "val": {
+                            "string": "v"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "k7"
+                          },
+                          "val": {
+                            "string": "v"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "k8"
+                          },
+                          "val": {
+                            "string": "v"
+                          }
+                        },
+                        {
+                          "key": {
+                            "symbol": "k9"
+                          },
+                          "val": {
+                            "string": "v"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "failed_call": false
+    }
+  ]
+}

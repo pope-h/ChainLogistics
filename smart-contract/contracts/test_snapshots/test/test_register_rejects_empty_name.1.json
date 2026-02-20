@@ -99,13 +99,13 @@
                   "string": "COFFEE-ETH-001"
                 },
                 {
-                  "string": "Organic Coffee Beans"
-                },
-                {
                   "string": ""
                 },
                 {
                   "string": ""
+                },
+                {
+                  "string": "Yirgacheffe, Ethiopia"
                 },
                 {
                   "string": "Coffee"
@@ -146,7 +146,7 @@
             ],
             "data": {
               "error": {
-                "contract": 8
+                "contract": 7
               }
             }
           }
@@ -167,7 +167,7 @@
               },
               {
                 "error": {
-                  "contract": 8
+                  "contract": 7
                 }
               }
             ],
@@ -192,7 +192,7 @@
               },
               {
                 "error": {
-                  "contract": 8
+                  "contract": 7
                 }
               }
             ],
@@ -213,13 +213,13 @@
                       "string": "COFFEE-ETH-001"
                     },
                     {
-                      "string": "Organic Coffee Beans"
-                    },
-                    {
                       "string": ""
                     },
                     {
                       "string": ""
+                    },
+                    {
+                      "string": "Yirgacheffe, Ethiopia"
                     },
                     {
                       "string": "Coffee"
