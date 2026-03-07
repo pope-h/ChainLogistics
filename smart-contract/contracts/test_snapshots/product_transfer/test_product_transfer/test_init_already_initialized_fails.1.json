@@ -230,7 +230,7 @@
                 "bytes": "0000000000000000000000000000000000000000000000000000000000000001"
               },
               {
-                "symbol": "init"
+                "symbol": "pt_init"
               }
             ],
             "data": {
@@ -260,7 +260,7 @@
                 "symbol": "fn_return"
               },
               {
-                "symbol": "init"
+                "symbol": "pt_init"
               }
             ],
             "data": "void"
@@ -284,7 +284,7 @@
                 "bytes": "0000000000000000000000000000000000000000000000000000000000000001"
               },
               {
-                "symbol": "init"
+                "symbol": "pt_init"
               }
             ],
             "data": {
@@ -314,7 +314,7 @@
                 "symbol": "fn_return"
               },
               {
-                "symbol": "init"
+                "symbol": "pt_init"
               }
             ],
             "data": {
@@ -375,7 +375,7 @@
                   "string": "contract try_call failed"
                 },
                 {
-                  "symbol": "init"
+                  "symbol": "pt_init"
                 },
                 {
                   "vec": [

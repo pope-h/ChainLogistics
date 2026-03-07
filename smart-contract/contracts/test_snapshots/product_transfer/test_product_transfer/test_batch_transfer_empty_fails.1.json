@@ -230,7 +230,7 @@
                 "bytes": "0000000000000000000000000000000000000000000000000000000000000001"
               },
               {
-                "symbol": "init"
+                "symbol": "pt_init"
               }
             ],
             "data": {
@@ -260,7 +260,7 @@
                 "symbol": "fn_return"
               },
               {
-                "symbol": "init"
+                "symbol": "pt_init"
               }
             ],
             "data": "void"
